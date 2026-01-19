@@ -10,6 +10,8 @@ In this exercise, you use Azure Content Understanding to extract information fro
 
 This exercise takes approximately **40** minutes.
 
+## **_IMPORTANT: Use the latest version of content understanding at url <https://contentunderstanding.ai.azure.com/>_**
+
 ## Create an Azure AI Foundry hub and project
 
 The features of Azure AI Foundry we're going to use in this exercise require a project that is based on an Azure AI Foundry *hub* resource.
