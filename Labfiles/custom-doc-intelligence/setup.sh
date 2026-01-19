@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Set variable values
-subscription_id="YOUR_SUBSCRIPTION_ID"
-resource_group="YOUR_RESOURCE_GROUP"
-location="YOUR_LOCATION_NAME"
+subscription_id="4fd5dae9-b421-493f-9e8e-a08311f8ab0b"
+resource_group="rg-ex050406"
+location="westus "
 expiry_date="2028-01-01T00:00:00Z"
 
 # Get random numbers to create unique resource names
